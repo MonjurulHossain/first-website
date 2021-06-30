@@ -1,0 +1,13 @@
+.m{
+    border: 2px solid red;
+    margin: 5px;
+    width: 17%;
+    padding: 5px;
+    height: 170px;
+    display: inline-block;
+    
+}
+.m p{
+    font-size: 10px;
+    text-align: justify;
+}
